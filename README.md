@@ -15,23 +15,21 @@
 ```bash
   ◪ Github : https://github.com/projectskiuwers
   ◪ Apikey : https://api-skiuwers.herokuapp.com/api
-  ◪ Instagram : https://instagram.com/skiuwers
-  ◪ YouTube : https://youtube.com/channel/UCy1HDX_AtOQqt1efnP4HseA
-  ◪ Group WA : https://chat.whatsapp.com/I2GGYVFbKGHIgXY18DOUQi
+  ◪ Instagram : https://instagram.com/rdensja
 ```
 ## INFO  
 ```bash
   ◪ Base : Self-Bot°©2K21
   ◪ Lib : Baileys [ versi 4.5.1 ]
-  ◪ Source : Zeeone YT | https://github.com/zeeoneofc
-  ◪ Recode : ItsMeArip | https://wa.me/+6285945300923
+  ◪ Source : rdensj | https://github.com/zeeoneofc
+  ◪ Recode : ItsMe rdensj | https://wa.me/+6281413581574
 ```
 ## DONATE
 ```bash
   ◪ SUPPORT
   │
-  ├❒ PULSA - 6287776101997
-  └❒ DANA - 6287776101997
+  ├❒ PULSA - 6281413581574
+  └❒ DANA - 6281413581574
 
   ◪ Nabi Muhammad SAW Bersabda :
 

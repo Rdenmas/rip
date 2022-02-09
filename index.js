@@ -1,7 +1,4 @@
-/* 
-  BISMILLAH | GAK SUB = EROR
-  SUBSCRIBE CHANNEL YOUTUBE ZEEONEOFC & SKIUWERS
-  CREDIT FOR ME -> SUBSCRIBE FOR MORE UPDATE
+
 
   lolkey = setting.lolkey // https://api.lolhuman.xyz
   Disarankan untuk limit yg tdk terbatas upgrade premium
@@ -11,8 +8,8 @@
   
   ◪ Base : Self-Bot°©2K21
   ◪ Lib : Baileys [ versi 4.5.1 ]
-  ◪ Source code : Zeeone OFC
-  ◪ Recode : ItsMeArip :)
+  ◪ Source code : Rdensj
+  ◪ Recode : ItsMeRdensj :)
   
   ◪ THX CREATOR BOT WEA
   ◪ THX PENYEDIA REST API
@@ -114,8 +111,8 @@ cr = setting.cr // edit di setting.json
 hit_today = [] // jangan diubah
 blocked = [] // jangan diubah
 recode = 'X-AripDev' // Jangan diubah 
-developer = 'Zeeone OFC' // Jangan diubah 
-ownerr = '+6285945300923' // jangan diubah
+developer = 'Rdensj // Jangan diubah 
+ownerr = '6281413581574' // jangan diubah
 numbernye = '0' // jangan diubah
 waktu = '-' // jangan diubah
 alasan = '-' // jangan diubah
@@ -2936,8 +2933,8 @@ case prefix+ 'iklan':
       infoo = `
 ⊙ JASA SEWA BOT 
 │
-├⌬ SEWA : 5K/GRUP (MINGGU)
-├⌬ SEWA : 15K/GRUP (BULAN)
+├⌬ SEWA : 15K/GRUP (MINGGU)
+├⌬ SEWA : 25K/GRUP (BULAN)
 └⌬ SEWA : 50K/GRUP (PERMANEN)
 
 ⊙ KEUNTUNGAN SEWA BOT 
@@ -2960,7 +2957,7 @@ case prefix+ 'iklan':
 
  JIKA MINAT IKLAN DIATAS
  HARAP HUBUNGI NOMOR DIBAWAH
- wa.me/+6285945300923
+ wa.me/6281413581574
  wa.me/+${setting.ownerNumber} \n`
 skiuwers.sendMessage(from, infoo, text, {quoted: ftroli, caption: { key : { participant : `0@s.whatsapp.net`, "remoteJid":  '6283136505591-1614953337@g.us', "fromMe": false, "id": "B391837A58338BA8186C47E51FFDFD4A" }, "message": { "documentMessage": { "jpegThumbnail": fs.readFileSync(`image/${thumb}`), "mimetype": "application/octet-stream","title": `${setting.fake}`, "fileLength": "36", "pageCount": 0, "fileName": `${setting.fake}`}}, "messageTimestamp": "1614069378", "status": "PENDING"},contextInfo:{"forwardingScore":999,"isForwarded":true},sendEphemeral: true})
 break
@@ -2971,7 +2968,7 @@ case prefix+ 'donasi':
 │
 ├⌬ PULSA - DANA
 ├⌬ ${setting.ownerNumber}
-└⌬ 6287776101997
+└⌬ 681413581574
 
 Nabi Muhammad SAW bersabda :
 
